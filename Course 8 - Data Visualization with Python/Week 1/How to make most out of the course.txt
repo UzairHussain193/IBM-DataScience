@@ -1,0 +1,78 @@
+How to Make the Most of this Course
+Welcome to Data Visualization with Python. This is a 5-week course, where you can expect to spend approximately 3-5 hours per module.
+
+The content of this course can be applied to multiple Specializations and Professional Certificate Programs:
+
+IBM Data Science Professional Certificate
+
+IBM Data Analyst Professional Certificate
+
+Applied Data Science Specialization
+
+Here are some tips to ensure you get the best experience and gain the required knowledge for a job interview or a certification, or for that matter, to enhance your skills.
+
+Tip 1: Get familiar with the course content
+
+Browse through the module structure to understand the topics and associated assets. Having a better understanding of the module structure will help you navigate through the course easily and also help you to understand the mandatory and optional topics in the module.
+
+Familiarize yourself with the order of topics, which will help you connect the ideas and form a cohesive whole. The outline with the modules and lessons in the course is available later in this topic.
+
+Tip 2: Create your schedule to complete the course
+
+Set a target date when you want to finish the course and schedule time each day to study. Set a reasonable goal for yourself to complete each module.
+
+Tip 3: Be an active learner
+
+Set some time aside for studying the course. Avoid distractions.
+
+When watching instructional videos, make sure to take notes. You can download transcripts and highlight parts of the narration that are important. Alternatively, you can take notes elsewhere.
+
+Keeping yourself engaged is important to learn more and measure your understanding.
+
+Read the readings thoroughly as they help connect the instructional videos and real-life scenarios.
+
+The course contains Expert Viewpoints, which bring out answers to Data Visualization -related questions from experts in the field. Compare what the experts say to what you learned in the instructional videos and readings.
+
+Make sure to review the demo videos and attempt the labs. Reviewing these course materials will help you get used to the different Data Visualization-related activities needed in a Data Visualization role.
+
+Attempt all practice quizzes and read the feedback for correct and incorrect responses. Retake them until you get all of the answers correct.
+
+Complete all of the graded quizzes. If you get a response wrong, you can revisit the topic for review. Review the topic, identify the correct response, and understand why that answer is correct. While there is a minimum passing score, you can retake graded quizzes for a higher score.
+
+Discussion forums are optional. However, actively participating in the discussion forums is recommended. Provide thoughtful responses to the prompts and engage by responding to others’ posts.
+
+Tip 4: Inform your family and friends about course goals
+
+Signing up for the course was the first step. You must make yourself accountable and commit to the course. Inform your family and friends about this commitment. If there are topics where you need a different perspective, get family and friends involved. 
+
+Tip 5: Follow through with your plan
+
+You create a schedule for yourself in Tip 2. Make sure to stay motivated and achieve your set goals. Commit and execute! Be unstoppable and keep yourself motivated!
+
+Syllabus
+Module 1: Introduction to Data Visualization Tools
+
+Lesson 1: Introduction to Data Visualization
+
+Module 2: Basic and Specialized Visualization Tools
+
+Lesson 1: Basic Visualization Tools
+
+Lesson 2: Specialized Visualization Tools
+
+Module 3: Advanced Visualizations and Geospatial Data
+
+Lesson 1: Advanced Visualization Tools
+
+Lesson 2: Visualizing Geospatial Data
+
+Module 4: Creating Dashboards with Plotly and Dash
+
+Lesson 1: Creating Dashboards with Plotly and Dash
+
+Module 5: Final Project and Exam
+
+Lesson 1: Final Assessment
+
+Lesson 2: Course Wrap-Up
+
